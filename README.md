@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 Run the app 
 ```bash
-python news_app.py
+python main.py
  ```
 
 # 💡 Usage
